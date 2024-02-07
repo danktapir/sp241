@@ -3,3 +3,10 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 5 L12 Assignment #02
+ZCZC W00 5 L13 Assignment #03
+ZCZC W00 5 L14 Assignment #04
+ZCZC W00 180 L16 Assignment #06
+ZCZC W00 30 L17 Assignment #07
+ZCZC W00 20 L05 Pop quiz
+ZCZC W00 5 L18 Assignment #08
