@@ -24,3 +24,10 @@ ZCZC W02 90 L05 Pop Quizzes
 ZCZC W02 210 L12 Assignment #02
 ZCZC W02 180 L13 Assignment #03
 ZCZC W02 5 L14 Assignment #04
+
+ZCZC W03 150 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 5 L11 Assignment #01
+ZCZC W03 20 L12 Assignment #02
+ZCZC W03 5 L13 Assignment #03
+ZCZC W03 60 L05 Pop Quizzes
+ZCZC W03 5 L03 GitHub and git related, including commit, push, pull
