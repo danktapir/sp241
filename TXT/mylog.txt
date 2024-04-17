@@ -49,5 +49,5 @@ ZCZC W05 5 L03 GitHub and git related, including commit, push, pull
 ZCZC W06 5 L11 Assignment #01
 ZCZC W06 5 L12 Assignment #02
 ZCZC W06 90 L05 Pop Quizzes
-ZCZC W06 5 L13 Assignment #03
+ZCZC W06 60 L13 Assignment #03
 ZCZC W06 5 L03 GitHub and git related, including commit, push, pull
